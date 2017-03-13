@@ -1,0 +1,50 @@
+html{
+	font-family: arial;
+	background: #fff3e0;
+}
+
+hr {
+    border: 1px solid green; 
+    height: 2px; 
+    width: 70%;
+}
+
+article{
+	padding-left: 200px;
+	padding-right: 200px;
+}
+
+@font-face{
+	font-family: 'Ballparkwiner';
+	src:url('../fonts/ballpark.eot');
+	src:url('../fonts/ballpark.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/ballpark.woff') format('woff'),
+		url('../fonts/ballpark.ttf') format('truetype'),
+		url('../fonts/ballpark.svg#Ballparkwiner') format('svg');
+		font-weight: normal;
+		font-style: normal;
+
+}
+
+@font-face{
+	font-family: 'Dayrom';
+	src:url('../fonts/dayrom.eot');
+	src:url('../fonts/dayrom.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/dayrom.woff') format('woff'),
+	url('../fonts/dayrom.ttf') format('truetype'),
+	url('../fonts/dayrom.svg#Dayrom') format('svg');
+
+	font-weight: normal;
+	font-style: normal;
+
+}
+h1{
+	text-align: center;
+}
+a{
+	font-family: 'Dayrom';
+	font-size: 20px;
+}
+h5{
+	text-align: center;
+}

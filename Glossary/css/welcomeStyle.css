@@ -1,0 +1,36 @@
+html{
+	background-color: #e3f2fd;
+}
+
+header {
+        
+    display:block;
+    background:#f4511e;
+    padding:10px 0px;
+    text-align: center;
+}
+
+hr {
+    border: 1px solid red;
+    height: 2px; 
+    width: 70%;
+}
+figure {
+	padding: 1px;
+    display: table; 
+    margin: 0 auto;
+}
+
+h2{
+	text-align: center;
+}
+
+footer {
+    position: relative;
+    height: 40px; 
+    padding:1px 0px;
+    clear: both;
+    background: #e65100;
+    text-align: center;
+    color: #fff;
+}
